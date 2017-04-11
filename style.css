@@ -1,0 +1,105 @@
+/**
+HW Wireframe **/
+* {
+  box-sizing: border-box;
+  text-align: center;
+
+}
+
+body {
+  font-size: 18px;
+  font-family: arial
+ 
+
+}
+
+header {
+  padding: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background: #ccc;
+  color:#333;
+}
+
+section {
+padding: 20px;
+margin-bottom: 10px;
+background-color: #777;
+float: right;
+width:63%;
+}
+#nav {
+  background-color: #666;
+  color: white;
+  width: 100%;
+  float: left;
+    
+}
+
+#section1 {
+   background-color: #666;
+  color: white;
+  height: 300px;
+  width: 40%;
+  float: right;
+
+}
+
+#article {
+  background-color: lavender;
+  color: black;
+  width: 59%;
+  float: left;
+  height:300px;
+}
+
+#full {
+  clear: both;
+  background-color: #eee;
+  overflow: auto;
+  clear: both;
+  width: 100%;
+
+}
+
+#division {
+  padding: 20px;
+  background-color: #6ea3da;
+  margin-top: 20px;
+  margin-bottom: : 10px;
+
+}
+
+#division2 {
+  padding: 20px;
+  background-color: #6ea3da;
+  margin-top: 20px;
+
+}
+
+
+aside {
+  background-color: pink;
+  width: 90%;
+  height: 250px;
+  border: 1px solid #eee;
+  padding: 20px;
+  float: left;
+  margin-left: 30px;
+}
+
+footer {
+  clear: both;
+  background-color: #ccc;
+  padding: 20px;
+
+}
+
+#border{
+  border: 80px solid black;
+
+
+
+
+}
+
